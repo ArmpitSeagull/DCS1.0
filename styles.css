@@ -14,7 +14,10 @@ html, body{
   align-items: center;
   justify-content: center;
 }
-.swiper .swiper-button-prev, .swiper-button-next{
+.swiper .swiper-button-prev{
+  color: #66fcf1;
+}
+.swiper .swiper-button-next{
   color: #66fcf1;
 }
 
